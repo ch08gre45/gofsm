@@ -1,4 +1,4 @@
-package fsm
+package gofsm
 
 import (
   "errors"
